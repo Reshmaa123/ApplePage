@@ -5,8 +5,7 @@ function App()
 {
         return(
         <div className="App">
-          <Head/>
-          <Routing/>
+         <h1>Welcome</h1>
 </div>
     )
 }
