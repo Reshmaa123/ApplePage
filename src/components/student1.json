@@ -1,0 +1,22 @@
+{
+    "students":[
+        {
+            "id":1,
+            "title":"Reshma",
+            "body":"Hyd"
+        },
+
+        {
+            "id":2,
+            "title":"Reshma2",
+            "body":"Hyd2"
+        },
+ 
+  
+        {
+            "id":3,
+            "title":"Reshma3",
+            "body":"Hyd3"
+        }
+    ] 
+}

@@ -1,0 +1,19 @@
+.res{
+    float:left;
+    width: 100px;
+    padding : 2px;
+    box-shadow:2px red
+}
+img{
+   max-width:100%;
+   padding-top: 3px;
+}
+.box-shadow{
+    box-shadow: 2px 3px 3px 2px ;
+}
+@media(max-width:500px)
+{
+
+}
+
+
