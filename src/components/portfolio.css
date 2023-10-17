@@ -1,0 +1,31 @@
+
+
+
+.breadcrumb-item a{
+    color:white;
+    text-decoration: none;
+    left: 80px;
+}
+.breadcrumb-item a:hover{
+    color:yellowgreen;
+
+}
+ .whitetext{
+  color:white;
+}
+.whitetext:hover{
+    color:pink;
+  }
+h3{
+  font-family: 'Courier New', Courier, monospace;
+    left: 50px;;
+    margin:0;
+}
+.black{
+  background-color: black;  
+  color:white;
+}
+button{
+    background-color: blueviolet;
+    color:
+}

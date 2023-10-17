@@ -4,7 +4,7 @@ const UseMemo = () => {
     const a =5;
     const b =6;
     const calculateSum = (a, b) => {
-        console.log('Calculating sum...');
+        console.log('Calculating sum');
         return a + b;}
     const sum=useMemo(()=>calculateSum(a,b),[a,b]);
     
