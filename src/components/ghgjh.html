@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title></title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link href="css/style.css" rel="stylesheet">
+    </head>
+    <body>
+    <div>Hello
+    </div>
+    </body>
+    <script>
+var parent = document.createElement("div"); // Create a new div element
+        parent.id = "new"; // Set the id attribute of the new div
+        var h1 = document.createElement("h1"); // Create an h1 element
+        h1.textContent = "existing"; // Set the text content of the h1 element
+        parent.appendChild(h1); // Append the h1 element to the new div
+        var textNode = document.createTextNode("text"); // Create a text node with the text "text"
+        parent.appendChild(textNode); // Append the text node to the new div
+        document.body.appendChild(parent); // Append the new div to the body
+
+        console.log(parent);
+
+
+        </script>
+</html>

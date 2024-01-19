@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "../.."
+		},
+		{
+			"path": "../../../node_modules"
+		},
+		{
+			"path": "../../.."
+		},
+		{
+			"path": "../../../../OneDrive/Documents/React Redux"
+		},
+		{
+			"path": "../../../../OneDrive/Documents/AnotherReact"
+		}
+	]
+}

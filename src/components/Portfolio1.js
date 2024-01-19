@@ -24,7 +24,7 @@ const Portfolio1 = () => {
     <button>CALL ME</button>
   </ol>
 </nav>
-<i class="fa fa-car">f</i>       
+     
 </div>
     </div>
 </div>
@@ -41,7 +41,7 @@ const Portfolio1 = () => {
 </p>
 <button>HIRE ME</button>
 <Icon>star</Icon>
-<i class="fa-regular fa-heart"></i>n
+<i class="fa-regular fa-heart"></i>
 <i class="fa fa-car"></i>
 <h6>
               da

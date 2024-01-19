@@ -1,0 +1,93 @@
+.img{
+   
+    text-align:left;
+}
+.colored{
+    color:#e22b2b;
+}
+
+.locationstyle{
+    width:60%;
+    height:60px;
+    border:  3px solid rgb(223, 198, 198);
+    text-decoration: none;
+    text-align: center;
+    font-size: larger;
+    margin:20px;
+    padding: 10x;
+    color: navy;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.h1{
+ 
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.Grey{
+    width:100%;
+    height: 100%;
+    background-color:rgb(229, 218, 218)
+}
+.pics{
+    width:100%;
+    height:100%;
+
+}
+.scroll{
+    font-style: italic;
+    font-weight: bolder;
+    margin-inline-end: 0cap;
+    padding-left: 5px;
+}
+.iframe{
+    width:50%;
+    height:40%;
+
+}
+.bold{
+    font-weight: bolder;
+    font-size: large;
+    
+}
+.home{
+    font-size: 40px;
+    line-height: 60px;
+    text-align: center;
+}
+.food{
+    
+    color: #e22b2b;
+
+    font-family: 'Courier New', Courier, monospace;
+}
+.navbar{
+    font-size:larger;
+
+    font-weight: 700;
+    line-height: 1.5;
+    color: black;
+    margin-left: 95px;
+    text-align: center !important;
+    padding-inline-end: 5px;
+}
+.images{
+    object-fit: cover;
+    height:100px;
+  width:100%;
+}
+.NavLink{
+    text-decoration: none;text-align: center;
+}
+.li{
+    text-align:none;
+}
+.vertical
+
+{
+    display: flex;
+    list-style: none;
+    text-decoration: none;
+    text-align: center;
+  color:black;
+  font-size: large;
+  row-gap:2px;
+  align-items: center;

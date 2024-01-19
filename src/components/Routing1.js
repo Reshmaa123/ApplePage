@@ -1,13 +1,15 @@
 import { Route,Routes } from "react-router-dom";
-import Navigation from "./Navigation";
-import ChooseUs from "./ChooseUs";
+
 import React from "react";
+import HOspitalparams from "./HOspitalparams";
+import Params from "./Params";
 const Routing1 = () => {
   return (
     <Routes>
-        <Route path='/Navigation' element={Navigation}>
-        <Route path='/ChooseUs' element={ChooseUs}/>
-</Route>
+        <Route path="" element={<HOspitalparams/>}/>
+        
+        <Route path="/Params/:id" element={<Params/>}/>
+<Route/>
     </Routes>
   )
 }

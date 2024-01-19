@@ -1,16 +1,17 @@
 import './App.css';
-import React from 'react';
-import Portfolio1 from './components/Portfolio1';
-import MamaEarth from './components/MamaEarth';
-import MultiItemCarousel from './components/demo';
-import Demo2 from './components/demo2';
-import Portfolio from './components/Reshma Portfolio';
+import React from 'react'; 
+//import SravanApp from './components/SravanApp';
+
+import SravanFooter from './components/SravanFooter';
 function App()
-{
-        return(
+ {
+return(
         <div className="App">
-<Portfolio/>
-        </div>
+      <h1>Large hardware pins</h1>
+
+
+  
+   </div>
     )
 }
-export default App
+export default App;

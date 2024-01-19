@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Reshmaa123/ApplePage/static/css/main.57282028.css",
-    "main.js": "/Reshmaa123/ApplePage/static/js/main.e3dbf0c7.js",
+    "main.css": "/Reshmaa123/ApplePage/static/css/main.c7a9a181.css",
+    "main.js": "/Reshmaa123/ApplePage/static/js/main.5f86db1f.js",
     "static/js/787.d3befce1.chunk.js": "/Reshmaa123/ApplePage/static/js/787.d3befce1.chunk.js",
     "static/media/brand-icons.svg": "/Reshmaa123/ApplePage/static/media/brand-icons.6729d29753e000c17489.svg",
     "static/media/icons.svg": "/Reshmaa123/ApplePage/static/media/icons.62d9dae4e0040e81c980.svg",
@@ -20,12 +20,12 @@
     "static/media/outline-icons.woff": "/Reshmaa123/ApplePage/static/media/outline-icons.ddae9b1ba9b0b42f5880.woff",
     "static/media/outline-icons.woff2": "/Reshmaa123/ApplePage/static/media/outline-icons.687a4990ea22bb1a49d4.woff2",
     "index.html": "/Reshmaa123/ApplePage/index.html",
-    "main.57282028.css.map": "/Reshmaa123/ApplePage/static/css/main.57282028.css.map",
-    "main.e3dbf0c7.js.map": "/Reshmaa123/ApplePage/static/js/main.e3dbf0c7.js.map",
+    "main.c7a9a181.css.map": "/Reshmaa123/ApplePage/static/css/main.c7a9a181.css.map",
+    "main.5f86db1f.js.map": "/Reshmaa123/ApplePage/static/js/main.5f86db1f.js.map",
     "787.d3befce1.chunk.js.map": "/Reshmaa123/ApplePage/static/js/787.d3befce1.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.57282028.css",
-    "static/js/main.e3dbf0c7.js"
+    "static/css/main.c7a9a181.css",
+    "static/js/main.5f86db1f.js"
   ]
 }
